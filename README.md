@@ -24,7 +24,7 @@ Blab-a-Gag is a fairly simple forum type application which allows:
 
 `/register` allows you to create a new user account
 
-`/tools` shows a tools page that shows a fortune or lets you ping a host.
+`/tools` shows a tools page that showsfawef a fortune or lets you ping a host.
 
 
 ## Build
@@ -62,5 +62,8 @@ On the first environment deployment, a script will automatically setup the datab
 ## Exploitation Demos
 
 See the `docs` folder
+
+
+
 
 
